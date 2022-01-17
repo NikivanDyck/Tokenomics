@@ -19,7 +19,9 @@ Similarly, non-fungible blockchain tokens represent goods or assets that are not
 
 
 ## Definitions 
----
+
+| Term | Description |
+| :---: | :----------- |
 | ICO (Initial coin offering)| The process of raising capital by selling digital representations of some type of asset utility or other value on a blockchain. |
 | Token | A digital representation of an asset, utility, or other value that is usually built on top of an existing blockchain platform |
 | Coin | A digital representation of a blockchain native cryptocurrency |
